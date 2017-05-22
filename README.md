@@ -1,4 +1,4 @@
-# mongo-unit
+# jhelper
 [![build status](https://travis-ci.org/mikhail-angelov/helper.svg?branch=master)](https://travis-ci.org/mikhail-angelov/helper)
 
 [![NPM](https://nodei.co/npm/jhelper.png)](https://nodei.co/npm/jhelper)
